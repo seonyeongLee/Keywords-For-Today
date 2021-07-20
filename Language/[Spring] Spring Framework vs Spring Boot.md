@@ -10,3 +10,5 @@ Spring Framework의 불편한점들을 보안 -->  Spring Boot
 3. XML설정을 하지 않아도 된다
 4. jar file을 이용하여 자바 옵션만으로도 손쉽게 배포가 가능하다
 ```
+
+* [spring-boot-starter](https://github.com/seonyeongLee/Keywords-For-Today/blob/main/Language/%5BSpring%5D%20spring%20boot%20starter.md)
